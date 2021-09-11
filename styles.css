@@ -29,7 +29,6 @@ h1{
     font-weight: normal;
     font-size: 4rem;
     margin-top: 5rem;
-    text-align: center;
 }
 
 .big-text{
@@ -51,6 +50,10 @@ span{
 
     .span-el:last-child{
         margin-bottom: 1.5rem;
+    }
+
+    h1{
+        text-align: center;
     }
     
 }
